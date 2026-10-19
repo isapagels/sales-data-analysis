@@ -77,12 +77,6 @@ The dataset covers only January to March 2019. The findings describe the period 
 
 The dataset also does not establish the causes behind observed sales patterns. Further analysis and additional business context would be needed to validate the recommendations.
 
-## 📓 Notebook
-
-The Jupyter notebook contains the data loading, quality checks, exploratory analysis, visualizations, key metrics, and business recommendations.
-
-**[View the project repository](https://github.com/isapagels/sales-data-analysis)**
-
 ## 📚 Skills Demonstrated
 
 - Exploratory Data Analysis (EDA)
