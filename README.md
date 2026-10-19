@@ -27,12 +27,19 @@ The analysis was developed as part of my Data Analytics learning journey, with a
 
 ```text
 sales-data-analysis/
-├── data/
-│   └── SuperMarket Analysis.csv
 ├── notebooks/
-│   └── Supermarket_Sales_Analysis.ipynb
+│   └── supermarket_sales_analysis.ipynb
+├── SuperMarket Analysis.csv
 └── README.md
 ```
+
+## 📓 Notebook
+
+Explore the complete analysis in the Jupyter notebook:
+
+**[View the analysis notebook](https://github.com/isapagels/sales-data-analysis/tree/main/notebooks)**
+
+The notebook includes data loading, data quality checks, exploratory data analysis, visualizations, key business metrics, and recommendations.
 
 ## 📈 Key Findings
 
