@@ -35,11 +35,9 @@ sales-data-analysis/
 
 ## 📓 Notebook
 
-Explore the complete analysis in the Jupyter notebook:
+[**View the complete analysis notebook**](https://github.com/isapagels/sales-data-analysis/blob/main/notebooks/supermarket_sales_analysis.ipynb)
 
-**[View the analysis notebook](https://github.com/isapagels/sales-data-analysis/tree/main/notebooks)**
-
-The notebook includes data loading, data quality checks, exploratory data analysis, visualizations, key business metrics, and recommendations.
+The notebook includes data loading, data quality checks, exploratory data analysis, visualizations, key business metrics, and business recommendations.
 
 ## 📈 Key Findings
 
