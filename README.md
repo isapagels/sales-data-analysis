@@ -1,27 +1,27 @@
 # 📊 Supermarket Sales Analysis
 
-## 📌 About the Project
+## 📌 Project Overview
 
-This project is part of my learning journey in Data Analytics and Data Science.
+This project explores supermarket sales data to identify sales patterns, compare branch and product line performance, and generate actionable business insights.
 
-The goal is to analyze supermarket sales data, identify patterns, compare branch and product performance, and generate business insights to support data-driven decision-making.
+The analysis was developed as part of my Data Analytics learning journey, with a focus on exploratory data analysis (EDA), data quality assessment, data visualization, and business-oriented recommendations.
 
 ## 🎯 Objectives
 
-- Explore and understand the dataset.
-- Assess data quality and identify missing or duplicate records.
-- Analyze sales performance across branches and product lines.
-- Identify daily and monthly sales trends.
+- Explore the dataset and understand its structure.
+- Assess data quality, including missing values and duplicate records.
+- Compare sales performance across branches and product lines.
+- Analyze daily and monthly sales trends.
 - Calculate key business metrics.
-- Communicate findings through visualizations and business recommendations.
+- Translate findings into practical business recommendations.
 
 ## 🛠️ Tools & Technologies
 
-- **Python** — Programming language.
-- **Pandas** — Data manipulation and analysis.
+- **Python** — Data analysis and programming.
+- **Pandas** — Data cleaning, manipulation, and aggregation.
 - **Matplotlib** — Data visualization.
 - **Seaborn** — Statistical data visualization.
-- **Google Colab / Jupyter Notebook** — Notebook development and execution.
+- **Google Colab / Jupyter Notebook** — Interactive analysis and documentation.
 
 ## 📂 Project Structure
 
@@ -36,31 +36,59 @@ sales-data-analysis/
 
 ## 📈 Key Findings
 
-- **Total sales:** 322,966.75 across 1,000 transactions.
-- **Average transaction value:** 322.97.
-- **Top product line:** Food and beverages, with 56,144.84 in sales.
-- **Lowest-performing product line:** Health and beauty, with 49,193.74 in sales.
-- **Top-performing branch:** Giza, with total sales of 110,568.71.
-- **Average customer rating:** 6.97 out of 10.
-- **Best-performing month:** January 2019, with total sales of 116,291.87.
+The analysis covers 1,000 transactions recorded between January and March 2019.
+
+| Metric | Result |
+|---|---:|
+| Total Sales | 322,966.75 |
+| Average Transaction Value | 322.97 |
+| Highest-Selling Product Line | Food and beverages |
+| Sales — Food and Beverages | 56,144.84 |
+| Lowest-Selling Product Line | Health and beauty |
+| Sales — Health and Beauty | 49,193.74 |
+| Highest-Selling Branch | Giza |
+| Sales — Giza | 110,568.71 |
+| Average Customer Rating | 6.97 / 10 |
+| Highest-Selling Month | January 2019 |
+| Sales — January 2019 | 116,291.87 |
+
+### Key Observations
+
+- Food and beverages generated the highest total sales among the product lines.
+- Giza recorded the highest total sales among the three branches.
+- January had the highest monthly sales during the period analyzed.
+- The average customer rating was 6.97 out of 10, indicating an opportunity to investigate customer experience further.
 
 ## 💡 Business Recommendations
 
-- Investigate the factors driving sales in Food and beverages and identify practices that could benefit other product lines.
-- Explore opportunities to increase average transaction value across branches.
-- Review customer ratings to identify potential improvements in the shopping experience.
-- Investigate monthly sales fluctuations, considering the limited period covered by the dataset.
+- **Product Strategy:** Investigate the factors driving sales in Food and beverages and assess whether successful practices could be applied to other product lines.
+- **Branch Performance:** Compare branch-level sales and average transaction values to identify opportunities to improve performance.
+- **Customer Experience:** Review customer feedback and ratings to identify potential improvements in service quality and the shopping experience.
+- **Sales Monitoring:** Investigate the changes in monthly sales and use additional historical data to determine whether these patterns persist over time.
 
 ## ⚠️ Limitations
 
-The dataset covers January to March 2019. The findings describe the period analyzed and should not be interpreted as current performance or long-term seasonal trends.
+The dataset covers only January to March 2019. The findings describe the period analyzed and should not be interpreted as evidence of current business performance or long-term seasonal trends.
 
-## 📚 Learning Goals
+The dataset also does not establish the causes behind observed sales patterns. Further analysis and additional business context would be needed to validate the recommendations.
 
-Through this project, I aim to strengthen my skills in Python, exploratory data analysis (EDA), data visualization, and business problem-solving.
+## 📓 Notebook
+
+The Jupyter notebook contains the data loading, quality checks, exploratory analysis, visualizations, key metrics, and business recommendations.
+
+**[View the project repository](https://github.com/isapagels/sales-data-analysis)**
+
+## 📚 Skills Demonstrated
+
+- Exploratory Data Analysis (EDA)
+- Data quality assessment
+- Data aggregation and analysis with Pandas
+- Data visualization
+- Business metrics and KPI analysis
+- Insight generation and business recommendations
 
 ---
 
-**Status:** Analysis completed; portfolio project in progress 🚧
+**Project Status:** Analysis completed
 
 **Author:** [Isabelly Pagels](https://github.com/isapagels)
